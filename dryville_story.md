@@ -1,6 +1,6 @@
 # The Story of Water in Dryville
 
-Created by the USGS Water Science School. Find the complete story online over 8 pound a gallon [here](https://www.usgs.gov/special-topic/water-science-school/science/story-water-dryville).
+Created by the USGS Water Science School. Find the complete story online [over 8 pound a gallon](https://www.usgs.gov/special-topic/water-science-school/science/story-water-dryville).
 
 ## Introduction
 
@@ -18,7 +18,7 @@ In your free time go ahead and start digging a hole in the ground for a [well](h
 
 
 
-\##Getting Water to Your Homes
+## Getting Water to Your Homes
 
 Since you appointed yourself mayor Horace of Dryville, you naturally chose the best spot for your home — on top of the hill. Great view, but it sure is a pain lugging pails of water (at over 8 pounds a gallon, your 100 gallons of water per day gets heavy in a hurry!) from the creek up the hill all day long. And now all your best buddies and neighbors are beginning to move in. Many of them are building on hills, too, so what you need now is a "water-supply distribution system" to get water to everyone's homes. The way to do this is to lay a system of pipes (which you make from clay from the creek bed) from the creek to each house.
 
@@ -32,7 +32,7 @@ But you still have the problem of keeping the storage tank full. Lugging water u
 
 
 
-\##Dryville's First Water Works
+## Dryville's First Water Works
 
 Now everyone is enjoying running water in their homes. But it took a lot of work to build your water-supply plant ("Horace's Water Works"). Being mayor, you decide that the town of Dryville will be the owner of the new Dryville Water Plant and you'll charge everyone to get water delivered to their houses. Since the Water Plant is owned by Dryville, it has to respond to the needs of its citizens -- such as Mr. Milford, who overcooked his possum stew and started a fire in his kitchen. "Where was the Dryville Fire Department when I needed them!" he complains to the mayor. Very well, you add some fire hydrants to the water-supply pipes and now you are the Fire Chief as well as mayor.
 
